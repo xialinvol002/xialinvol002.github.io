@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               Xia Lin's Code Page
+url:                 https://qrcode.xialin-vol.cn
 baseurl:             ""
 
 markdown:            kramdown
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              夏霖
+  url:               https://qrcode.xialin-vol.cn
+  email:             superadmin@email.xialin-vol.cn
 
 plugins:
   - jekyll-coffeescript
