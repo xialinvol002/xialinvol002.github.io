@@ -1,6 +1,6 @@
 title:               夏霖vol's小栈-二维码页面
 url:                 https://qrcode.xialin-vol.cn
-baseurl:             ""
+baseurl:             "https://qrcode.xialin-vol.cn"
 
 markdown:            kramdown
 highlighter:         rouge
